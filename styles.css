@@ -57,3 +57,13 @@ nav ul li a {
     background-position: center;
     background-size: cover;
 }
+
+#main {
+    width: 50vw;
+    height: 100vh;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
